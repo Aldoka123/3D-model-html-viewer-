@@ -25,4 +25,4 @@ Suggested usage section
 Open index.html in any modern browser (or serve with `npx serve .`).
 Drag and drop a model onto the left panel, or click Upload Model.
 
-Rename character-studio-v2.html to index.html for the repo. A license (MIT is a common choice) is worth adding, and check the license of any sample models you include.
+
